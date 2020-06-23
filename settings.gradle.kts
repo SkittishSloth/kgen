@@ -8,3 +8,6 @@
  */
 
 rootProject.name = "kgen"
+
+include("core")
+include("cli")
